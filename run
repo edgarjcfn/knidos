@@ -1,0 +1,2 @@
+#!/bin/bash 
+nodemon -w "routes" -x "npm start" ..

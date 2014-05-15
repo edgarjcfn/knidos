@@ -1,6 +1,8 @@
 {
   "name": "nao-eh-boato",
   "dependencies": {
-    "angular": "latest"
+    "angular": "latest",
+    "bootstrap": "latest",
+    "bootswatch-dist": "3.1.1-superhero"
   }
 }
