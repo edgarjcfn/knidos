@@ -1,5 +1,10 @@
 extends layout
+block imports
+  script(type='text/javascript', src='/javascripts/FeedCtrl.js')
 
 block content
   h1= title
   p Welcome to #{title}
+  div(ng-controller="FeedCtrl")
+    span
+      {{greet}}
