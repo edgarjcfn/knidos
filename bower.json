@@ -1,0 +1,6 @@
+{
+  "name": "nao-eh-boato",
+  "dependencies": {
+    "angular": "latest"
+  }
+}
